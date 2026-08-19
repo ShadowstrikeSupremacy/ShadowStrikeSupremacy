@@ -103,17 +103,5 @@ Real-time PCB defect inspection in C++/OpenCV/YOLO, detecting Track Cuts, Shorts
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShadowstrikeSupremacy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=8" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowstrikeSupremacy&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8" alt="top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
