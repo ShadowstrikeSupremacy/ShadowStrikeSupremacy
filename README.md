@@ -4,7 +4,6 @@
 
 Electronics &amp; Telecommunication @ Pune Institute of Computer Technology · Class of 2027
 
-<img src="https://komarev.com/ghpvc/?username=ShadowstrikeSupremacy&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="views" />
 
 </div>
 
